@@ -1,5 +1,3 @@
-
-
 body { font-family: sans-serif; padding: 20px; background-color: #f9f9f9; }
 export default function RootLayout({ children }) {
   return (
